@@ -1,4 +1,4 @@
-# 🗑️ Alat Bantu untuk Masyarakat Tentang Cara Pembuangan Sampah yang Benar
+# 🗑️ Alat Bantu Masyarakat Tentang Pengetahuan Limbah Sampah
 
 ---
 
