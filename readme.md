@@ -1,4 +1,4 @@
-# 🗑️ Alat Bantu Masyarakat Tentang Pengetahuan Limbah Sampah
+# 🗑️ Alat Bantu Untuk Masyarakat Tentang Pengetahuan Limbah Sampah
 
 ---
 
