@@ -7,4 +7,4 @@
 ---
 
 ## Flowchart
-![flowchart.png]()
+![flowchart.png](https://github.com/zadfthi/homework1_zainaldinfathi_1DTI/blob/main/flowchart.png)
